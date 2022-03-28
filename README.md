@@ -25,7 +25,7 @@ Build the project with maven
 
 `docker run --name pgadmin -d -p 5050:5050 thajeztah/pgadmin4`
 
-# SQL script:
+# Create the Database:
 
 First go on the [pgadmin interface](http://localhost:5050)
 Create a postgreSQL database named __"green_food"__ on pgadmin 4 
