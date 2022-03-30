@@ -1,11 +1,7 @@
 RestApplication.class
-business/PersonneBusiness.class
 entities/Produit.class
 jpa/JpaEntityManager.class
 dao/ProduitDao.class
 exceptions/technical/DAOException.class
-resource/PersonneResource.class
-dao/PersonneDao.class
-entities/Personne.class
 resource/ProduitResource.class
 business/ProduitBusiness.class
